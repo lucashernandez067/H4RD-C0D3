@@ -170,3 +170,7 @@ table {
 .center{
 	text-align: center;
 }
+
+.progress{
+	padding-left: 3px;
+}
