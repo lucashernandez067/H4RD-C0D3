@@ -24,35 +24,35 @@ footer{
 
 /*Banner style*/
 
-header nav{
+#header nav{
     padding: 10px;
     margin-bottom: 10px;
     background-color: #581845
 }
 
-header nav ul li{
+#header nav ul li{
 	display: inline-block;
 	padding: 12px;
 }
 
-header nav ul li span{
+#header nav ul li span{
 	font-size: 1.8em;
 	color: white;
 }
 
 
-header nav ul li a{
+#header nav ul li a{
 	color: white;
 	font-family: .52em;
 	cursor: pointer;
 }
 
-header nav ul li a:hover{
+#header nav ul li a:hover{
     text-decoration: none;
     color:rgb(207, 205, 205);
 }
 
-header nav ul li .login-button{
+#header nav ul li .login-button{
 	-webkit-appareance: button;
 	background-color: rgb(192, 131, 17);
 	padding: 10px;
@@ -60,7 +60,7 @@ header nav ul li .login-button{
 	transition: all .3s;
 }
 
-header nav ul li .sign-up-button{
+#header nav ul li .sign-up-button{
 	-webkit-appareance: button;
 	background-color: rgb(192, 131, 17);
 	padding: 10px;
@@ -68,7 +68,7 @@ header nav ul li .sign-up-button{
 	transition: all .3s;
 }
 
-header nav ul li .login-button:hover{
+#header nav ul li .login-button:hover{
 	-webkit-appareance: button;
 	background-color: rgb(160, 157, 17);
 	padding: 10px;
@@ -76,7 +76,7 @@ header nav ul li .login-button:hover{
 	transition: all .5s;
 }
 
-header nav ul li .sign-up-button:hover{
+#header nav ul li .sign-up-button:hover{
 	-webkit-appareance: button;
 	background-color: rgb(160, 157, 17);
 	padding: 10px;
@@ -84,122 +84,12 @@ header nav ul li .sign-up-button:hover{
 	transition: all .5s;
 }
 
-header nav ul li b{
+#header nav ul li b{
 	color: white;
 	font-size: 1.5em;
 }
 
-/* Login style */
 
-.panel-login-col{
-    height:50rem;
-}
-
-.background-login-col{
-    background-color: #F2285A;
-}
-
-/* Index Style */
-
-.index-body{
-    background: linear-gradient(#F2285A,#E25050,#FF6F29);
-    height:100%;
-    background-repeat: no-repeat;
-    color:#fff;
-
-}
-
-
-
-/*  register style   */
-html {
-	font-size: 16px;
-    font-family: 'Lato', sans-serif;
-}
-
-.body{
-    background: linear-gradient(#F2285A,#E25050,#FF6F29);
-    margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-
-.containerd {
-	max-width: 450px;
-	height: auto;
-	background-color: #EFEFEF;
-	margin: 5% auto;
-	padding-bottom: 1rem;
-	
-}
-
-.form__top {
-	width: 100%;
-	text-align: center;
-	padding: 2rem 0 1rem;
-	border-top: solid .4rem #F39B53;
-	margin-bottom: 1rem;
-}
-
-.form__top h2 {
-	font-weight: bold;
-	color: #CAC8C8;
-	font-size: 18px;
-}
-
-h2 span {
-	color: #F39B53;
-}
-
-.form__reg {
-	padding: 0 2rem;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-}
-
-.btn__form {
-	display: flex;
-	justify-content: space-around;
-	margin-top: 1rem;
-}
-
-.input, .btn__submit, .btn__reset{
-	background-color: #EFEFEF;
-	padding: .5rem;
-	margin: .5rem 0;
-	border: none;
-	border-bottom: solid #C8C8C8 .2rem;
-	transition: all .5s;
-}
-
-.index-body{
-    background: linear-gradient(#F2285A,#E25050,#FF6F29);
-    height:100%;
-    background-repeat: no-repeat;
-    color:#fff;}
-
-.btn__submit, .btn__reset {
-	width: 40%;
-	border-bottom: none;
-	background-color: #31B1E5;
-	color: white;
-}
-
-.btn__reset {
-	background-color: #EDA135;
-}
-
-.btn__submit:hover {
-	background-color: #4C9ED9;
-}
-
-.btn__reset:hover{
-	background-color: #FA9535;
-}
 .body {
 	line-height: 1;
 }
@@ -211,6 +101,10 @@ table {
 	border-spacing: 0;
 }
 
+/*Materia style*/
+
+
+
 /* style grado*/
 .center{
 	text-align: center;
@@ -220,6 +114,3 @@ table {
 	padding-left: 3px;
 }
 
-*{
-	display: inline;
-}
