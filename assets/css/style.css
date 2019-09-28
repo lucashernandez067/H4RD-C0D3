@@ -73,10 +73,16 @@ html {
 }
 
 .body{
-	background: linear-gradient(#F2285A,#E25050,#FF6F29)
+    background: linear-gradient(#F2285A,#E25050,#FF6F29)
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
 
-.container {
+.containerd {
 	max-width: 450px;
 	height: auto;
 	background-color: #EFEFEF;
