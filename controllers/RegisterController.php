@@ -6,7 +6,7 @@
     }
 =======
         public function index(){
-            
+
         }
 >>>>>>> 5683b19c39ec97e7b399cd82ce770acfb3466fbf
     }
