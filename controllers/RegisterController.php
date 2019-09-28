@@ -1,13 +1,15 @@
 <?php 
     class RegisterController extends Register{
-        public function index(){
-<<<<<<< HEAD
+        
+        public function register(){
         require_once('views/Register/index.php');
-=======
-
+    }
+        public function index(){
+            
         }
->>>>>>> 5683b19c39ec97e7b399cd82ce770acfb3466fbf
->>>>>>> 0ffa0c6e6295aa081f4c21d7ef4efbf87529356b
+        public function index(){
+        require_once('views/Register/index.php');
+        }
     }
  }
 ?>

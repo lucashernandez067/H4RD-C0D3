@@ -1,8 +1,6 @@
 
 <?php include('views/layouts/head.php')?>
-<body>
-    
-    
+<body>   
 
 <?php include('views/layouts/footer.php') ?>
 </body>
