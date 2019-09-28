@@ -24,10 +24,9 @@ footer{
 /*Banner style*/
 
 header nav{
-    background: linear-gradient(#F2285A,#E25050,#FF6F29);
     padding: 10px;
     margin-bottom: 10px;
-
+    background-color: #F2285A
 }
 
 header nav ul li{
@@ -53,4 +52,15 @@ header nav ul li a:hover{
 .background-login-col{
     background-color: #F2285A;
 }
+
+/* Index Style */
+
+.index-body{
+    background: linear-gradient(#F2285A,#E25050,#FF6F29);
+    height:50rem;
+
+}
+
 /*  register style   */
+
+

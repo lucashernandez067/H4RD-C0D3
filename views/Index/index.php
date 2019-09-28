@@ -3,8 +3,9 @@
 <body>
     <?php include('views/layouts/banner.php') ?>
 
-    Hola En el index
-    
+    <div class="    ">
+        
+    </div>    
 
 
     <?php include('views/layouts/footer.php') ?>
