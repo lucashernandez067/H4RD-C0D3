@@ -2,15 +2,12 @@
 <title>Inicio</title>
 <body class="">
     <?php include('views/layouts/banner.php') ?>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
-            </div>
-        </div>
-    </div>  
-
+<section>
+    <div class="banner"></div>
+    <div>
+        <h2>lorem</h2>
+    </div>
+</section>
     <?php include('views/layouts/footer.php') ?>
 </body>
 </html>
