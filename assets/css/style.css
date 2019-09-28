@@ -17,7 +17,8 @@ footer{
     height: auto;
     color:white;
     padding: 3rem;
-    margin-top: 10px; 
+	margin-top: 10px; 
+	display: block;
     
 }
 
