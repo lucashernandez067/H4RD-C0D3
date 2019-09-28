@@ -7,8 +7,11 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="text-center">Matemáticas</h1>
-                <br><br>
+                <br>
+                    
+                <br>
                 <div class="container table-responsive" style="max-width: 600px;">
+                    <a class="" href="?c=Grados&m=index">Volver</a>
                     <table class="table table-hover table-bordered" id="tabla">
                     <caption>Selecciona el curso que desees realizar</caption>
                     <thead class="">

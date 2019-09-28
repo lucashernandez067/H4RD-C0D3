@@ -1,12 +1,12 @@
 <?php include('views/layouts/head.php'); ?>
-<title>Español</title>
+<title>Química</title>
 <body class="">
     <?php include('views/layouts/banner.php') ?>
 
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="text-center">Español</h1>
+                <h1 class="text-center">Matemáticas</h1>
                 <br>
                     
                 <br>
