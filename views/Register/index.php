@@ -17,22 +17,22 @@
                 <div class="panel panel-default">
                     <div class="panel-heading">Register User</div>
                         <div class="panel-body">
-                            <form action="">
+                            <form action="?c=Register&m=registrar" method="post">
                                 <div>
                                  <label for="">Name</label>
                                  <input type="text" name="name" placeholder="Name" required>
                                  </div>
                                  <div>
                                  <label for="">Last Name</label>
-                                 <input type="text" name="apellido" placeholder="Last_name">
+                                 <input type="text" name="last_name" placeholder="Last_name">
                                  </div>
                                  <div>
                                  <label for="">Document</label>
-                                 <input type="num" name="document" placeholder="Document">
+                                 <input type="num" name="document" placeholder="Document" required>
                                  </div>
                                  <div>
                                  <label for="">Password</label>
-                                 <input type="password" name="password" placeholder="Password">
+                                 <input type="password" name="pass" placeholder="Password" required>
                                  </div>
                                  <div>
                                  <label for="">Email</label>
