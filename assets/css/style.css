@@ -181,6 +181,10 @@ table {
 }
 
 /* style grado*/
+.containers{
+    position: absolute;
+}
 .center{
+    position:relative;
 	text-align: center;
 }
