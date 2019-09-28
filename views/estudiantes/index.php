@@ -18,13 +18,20 @@
             <hr>
                        
             <h3>Comentarios</h3>
-            <hr>
             <input type="text" name="" id="" class="form-control" style="height:100px;">
             <button class="btn btn-success" style="margin-top:10px;">Enviar Comentario</button>
             <hr>
+
             <div>
-            
             <h3><img src="assets/img/img01.png" alt="" width="5%"> Felipe</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus veniam dolore autem illo aliquid, corporis labore consectetur expedita Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla perspiciatis dolorum alias nesciunt quam maxime exercitationem, eveniet dignissimos neque eaque beatae pariatur eum, et, molestias quas numquam possimus expedita laborum! </p>
+            <p><a href="">Responder </a></p>
+
+            <h3><img src="assets/img/img01.png" alt="" width="5%"> Juan</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus veniam dolore autem illo aliquid, corporis labore consectetur expedita </p>
+            <p><a href="">Responder </a></p>
+
+            <h3><img src="assets/img/img01.png" alt="" width="5%"> Camila</h3>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus veniam dolore autem illo aliquid, corporis labore consectetur expedita </p>
             <p><a href="">Responder </a></p>
             </div>
