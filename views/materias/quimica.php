@@ -1,5 +1,5 @@
 <?php include('views/layouts/head.php'); ?>
-<title>Matemáticas</title>
+<title>Química</title>
 <body class="">
     <?php include('views/layouts/banner.php') ?>
 

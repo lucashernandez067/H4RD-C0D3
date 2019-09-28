@@ -1,12 +1,12 @@
 <?php include('views/layouts/head.php'); ?>
-<title>Matemáticas</title>
+<title>Inglés</title>
 <body class="">
     <?php include('views/layouts/banner.php') ?>
 
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="text-center">Matemáticas</h1>
+                <h1 class="text-center">Inglés</h1>
                 <br>
                     
                 <br>
@@ -122,146 +122,6 @@
                             </td>
                             <td>
                                 <a href="" class="btn btn-info">Entrar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Números Reales
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Expresión decimal de un número Real
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Ubicación de reales en la recta
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Exponentes enteros
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Radicales y operaciones
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Racionalización
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <th>
-                                Ecuaciones con radicales simples
-                            </th>
-                            <td>
-                                Sin Iniciar
-                            </td>
-                            <td>
-                                <div class="progress">
-                                    <div class="progress-bar progress-bar-info" role="progressbar"
-                                        aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                                        style="width: 0%">
-                                    </div>
-                                    <span class="sr-only">0% completado</span>
-                                </div>
-                            </td>
-                            <td>
-                                <a href="" class="btn btn-info">Iniciar</a>
                             </td>
                         </tr>
                     </tbody>

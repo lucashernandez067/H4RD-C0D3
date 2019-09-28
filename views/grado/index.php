@@ -4,11 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-<<<<<<< HEAD
                 <h1 class="text-center">STUDENT_STUDY</h1>
-=======
-                <h1 class="text-center">asdasds</h1>
->>>>>>> 45cae080a2e480370ee999d8ccd0f6bf5cd4ed54
             </div>
         </div>
     </div>
