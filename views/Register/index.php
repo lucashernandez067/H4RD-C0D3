@@ -8,7 +8,7 @@
 		<form class="form__reg" action="">
             <input class="input" type="text" placeholder="&#128100;  Name" required autofocus>
             <input class="input" type="text" placeholder="&#128090;   Last_name" required>
-            <input class="input" type="email" placeholder="&#128084;  Document" required>
+            <input class="input" type="number" placeholder="&#128084;  Document" required>
             <input class="input" type="password" placeholder="&#127760;  Password" required>
             <input class="input" type="email" placeholder="&#9993;  Email" required>
             <div class="btn__form">
