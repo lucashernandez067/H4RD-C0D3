@@ -69,9 +69,17 @@ h2 span {
 	transition: all .5s;
 }
 
+<<<<<<< HEAD
 .input:focus {
 	border-bottom: solid #F39B53 .2rem;
 }
+=======
+.index-body{
+    background: linear-gradient(#F2285A,#E25050,#FF6F29);
+    height:100%;
+    background-repeat: no-repeat;
+    color:#fff;
+>>>>>>> 93385124965ccf2d029ab1b6ed66cc46e3137b4c
 
 .btn__submit, .btn__reset {
 	width: 40%;

@@ -3,7 +3,13 @@
 <body class="index-body">
     <?php include('views/layouts/banner.php') ?>
 
-      
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+            </div>
+        </div>
+    </div>  
 
 
     <?php include('views/layouts/footer.php') ?>
