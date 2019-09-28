@@ -8,7 +8,7 @@
             <div class="col-md-12">
                 <h1 class="text-center">Matemáticas</h1>
                 <br><br>
-                <div class="container table-responsive" style="max-width: 500px;">
+                <div class="container table-responsive" style="max-width: 600px;">
                     <table class="table table-hover table-bordered" id="tabla">
                     <caption>Selecciona el curso que desees realizar</caption>
                     <thead class="">
