@@ -1,11 +1,15 @@
 <?php include('views/layouts/head.php'); ?>
 <title>Inicio</title>
-<body>
+<body class="">
+    <?php include('views/layouts/banner.php') ?>
 
-
-    Hola En el index
-    
-
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                asdasdasd
+            </div>
+        </div>
+    </div>  
 
     <?php include('views/layouts/footer.php') ?>
 </body>
