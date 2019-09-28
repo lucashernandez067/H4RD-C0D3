@@ -1,5 +1,5 @@
 <?php 
-class database{
+class DB{
     public function connect(){
         try{
             $PDO = new PDO("mysql:host=localhost;dbname=database_hackatrix","root","");
