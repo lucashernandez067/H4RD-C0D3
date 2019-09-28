@@ -1,7 +1,7 @@
 <?php require_once('views/layouts/head.php'); ?>
 
 <body class="body">
-<div class="container">
+	<div class="container">
 		<div class="form__top">
 			<h2><span>Register</span></h2>
 		</div>		
