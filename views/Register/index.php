@@ -18,6 +18,9 @@
             	<input class="btn__reset" type="reset" value="Clear">	
             </div>
 		</form>
-	</div>
+    </div>
+    
+    <?php require_once('views/layouts/footer.php'); ?>
+
 </body>
 </html>

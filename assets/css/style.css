@@ -18,6 +18,7 @@ footer{
     color:white;
     padding: 3rem;
     margin-top: 10px; 
+    
 }
 
 
@@ -26,7 +27,7 @@ footer{
 header nav{
     padding: 10px;
     margin-bottom: 10px;
-    background-color: #F2285A
+    background-color: #581845
 }
 
 header nav ul li{
