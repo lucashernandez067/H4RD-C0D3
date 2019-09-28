@@ -1,14 +1,6 @@
 <?php
 date_default_timezone_set("America/Bogota");
     class RegisterController extends Register{
-        private $register;
-        public function __construct(){
-            try{
-                $this->register = new Register();
-            }catch(Exception $e){
-                die($e->getMessage());
-            };
-        }
         public function index(){
             require_once('views/Register/index.php');
         }
