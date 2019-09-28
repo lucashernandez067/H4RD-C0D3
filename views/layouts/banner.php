@@ -1,8 +1,6 @@
-<header>
+<header id="header">
 <nav>
-	<ul>
-		<li><a href="index.html">STUDENT_STUDY</a></li>
-		
+	<ul>		
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5">
