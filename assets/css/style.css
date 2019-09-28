@@ -31,11 +31,20 @@ header nav{
 }
 
 header nav ul li{
-    display: inline-block;
-    font-size: 30px;
+	display: inline-block;
+	padding: 12px;
 }
+
+header nav ul li span{
+	font-size: 1.8em;
+	color: white;
+}
+
+
 header nav ul li a{
-    color: white;
+	color: white;
+	font-family: .52em;
+	cursor: pointer;
 }
 
 header nav ul li a:hover{
@@ -43,6 +52,42 @@ header nav ul li a:hover{
     color:rgb(207, 205, 205);
 }
 
+header nav ul li .login-button{
+	-webkit-appareance: button;
+	background-color: rgb(192, 131, 17);
+	padding: 10px;
+	border-radius: 3px;
+	transition: all .3s;
+}
+
+header nav ul li .sign-up-button{
+	-webkit-appareance: button;
+	background-color: rgb(192, 131, 17);
+	padding: 10px;
+	border-radius: 3px;
+	transition: all .3s;
+}
+
+header nav ul li .login-button:hover{
+	-webkit-appareance: button;
+	background-color: rgb(160, 157, 17);
+	padding: 10px;
+	border-radius: 3px;
+	transition: all .5s;
+}
+
+header nav ul li .sign-up-button:hover{
+	-webkit-appareance: button;
+	background-color: rgb(160, 157, 17);
+	padding: 10px;
+	border-radius: 3px;
+	transition: all .5s;
+}
+
+header nav ul li b{
+	color: white;
+	font-size: 1.5em;
+}
 
 /* Login style */
 
@@ -177,4 +222,8 @@ table {
 
 .progress{
 	padding-left: 3px;
+}
+
+*{
+	display: inline;
 }
