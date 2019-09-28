@@ -156,4 +156,13 @@ h2 span {
 .btn__reset:hover{
 	background-color: #FA9535;
 }
-
+.body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
