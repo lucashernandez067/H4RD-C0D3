@@ -16,8 +16,8 @@ html {
     font-family: 'Lato', sans-serif;
 }
 
-body {
-	background-color: #9AD1ED;
+.body{
+	background: linear-gradient(#F2285A,#E25050,#FF6F29);
 }
 
 .container {

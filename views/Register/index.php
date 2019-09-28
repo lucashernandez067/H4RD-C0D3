@@ -10,10 +10,10 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Registro</title>
 </head>
-<body>
+<body class="body">
 <div class="container">
 		<div class="form__top">
-			<h2>Formulario <span>Registro</span></h2>
+			<h2><span>Register</span></h2>
 		</div>		
 		<form class="form__reg" action="">
             <input class="input" type="text" placeholder="&#128100;  Name" required autofocus>
