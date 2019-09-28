@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Registro</title>
 </head>
 <body>
@@ -38,7 +38,9 @@
                                  <label for="">Email</label>
                                  <input type="text" name="email" placeholder="Email">
                                  </div>
-
+                                 <div>
+                                   <input type="submit">  
+                                 </div>
                              </form>
                        
                     </div>
