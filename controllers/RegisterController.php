@@ -1,5 +1,7 @@
 <?php 
     class RegisterController extends Register{
+<<<<<<< HEAD
+=======
         private $register;
         public function __construct(){
             try{
@@ -8,6 +10,7 @@
                 die($e->getMessage());
             };
         }
+>>>>>>> a048449ab1dfb3234b8252a205636e0f93cc5e8b
         public function index(){
             require_once('views/Register/index.php');
         }

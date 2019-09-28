@@ -1,18 +1,20 @@
 
 <?php include('views/layouts/head.php')?>
 <body>
-    <?php include('views/layouts') ?>
+    <?php include('views/layouts/banner.php') ?>
     <div class="container">
         <div class="row">
             <div class="col-md-6 panel-login-col background-login-col">
                 
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 panel-login-col">
                 <form action="">
-                    <label for="">Documento</label>
+                    <label for="" $pu><h3>Documento</h3></label>
                     <input type="text" class="form-control ">
 
-                    label
+                    
+                    <label for="">Contraseña</label>
+                    <input type="text" class="form-control">
                 </form>
             </div>
         </div>

@@ -5,10 +5,29 @@ footer{
     height: auto;
     color:white;
     padding: 3rem;
+    margin-top: 10px; 
 }
 
-nav{
-    background: linear-gradient(#F2285A,#E25050,#FF6F29)
+
+/*Banner style*/
+
+header nav{
+    background: linear-gradient(#F2285A,#E25050,#FF6F29);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+header nav ul li{
+    display: inline-block;
+
+}
+header nav ul li a{
+    color: white;
+}
+
+header nav ul li a:hover{
+    text-decoration: none;
 }
 
 /* Login style */
@@ -19,6 +38,5 @@ nav{
 
 .background-login-col{
     background-color: #F2285A;
-    height: 100px;
 }
 /*  register style   */
