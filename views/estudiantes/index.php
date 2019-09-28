@@ -56,7 +56,7 @@
                     </div>
                 </div>
 
-                <a href="" class="btn btn-info btn-block btn-lg">PRESENTAR PRUEBA</a>
+            <a href="?c=Estudiantes&m=prueba" class="btn btn-info btn-block btn-lg">PRESENTAR PRUEBA</a>
             </div>
         </div>
     </div>
