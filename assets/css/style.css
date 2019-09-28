@@ -63,7 +63,6 @@ header nav ul li a:hover{
 
 }
 
-/*  register style   */
 
 
 /*  register style   */
@@ -164,4 +163,9 @@ ol, ul {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+/* style grado*/
+.center{
+	text-align: center;
 }
