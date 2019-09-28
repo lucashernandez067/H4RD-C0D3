@@ -1,10 +1,10 @@
 <?php include('views/layouts/banner.php'); ?>
 <?php include('views/layouts/head.php'); ?>
 <body>
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="center">asdasds</h1>
+                <h1 class="text-center">asdasds</h1>
             </div>
         </div>
     </div>

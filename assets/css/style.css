@@ -21,7 +21,6 @@ footer{
     
 }
 
-
 /*Banner style*/
 
 header nav{
@@ -32,10 +31,25 @@ header nav{
 
 header nav ul li{
     display: inline-block;
-    font-size: 30px;
+	font-size: 30px;
+	padding: 5px;
 }
+
+header nav ul li span{
+	color: white;
+}
+
 header nav ul li a{
-    color: white;
+	color: white;
+	font-size: .52em;
+}
+
+header nav ul li .btn{
+	font-size: .52em;
+}
+header nav ul b{
+	color: white;
+	font-size: 1em;
 }
 
 header nav ul li a:hover{
@@ -195,6 +209,10 @@ div ol li:hover{
     border-color: #d7bcf1;
   }
 /* style grado*/
+.containers{
+    position: absolute;
+}
 .center{
+    position:relative;
 	text-align: center;
 }
