@@ -3,24 +3,18 @@
 <body>
     <?php include('views/layouts/banner.php') ?>
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 panel-login-col background-login-col">
-                
+		<div class="form__top">
+			<h2><span>Login</span></h2>
+		</div>		
+		<form class="form__reg" method="POST" action="?c=Estudiantes&m=index">
+            <input class="input" type="number" placeholder="&#128084;  Document" required>
+            <input class="input" type="password" placeholder="&#127760;  Password" required>
+            <div class="btn__form">
+                <button type="submit" name="documento" class="btn__submit">Login</button>
+                <a style="text-decoration:none; color: #FFF" href="?c=Register&m=index" class="btn__reset">Register</a>
             </div>
-            <div class="col-md-6 panel-login-col">
-                <form action="">
-                    <label for=""><h3>Documento</h3></label>
-                    <input type="text" class="form-control " placeholder="&#128100; Documento">
-
-                    
-                    <label for=""><h3>Contraseña</h3></label>
-                    <input type="text" class="form-control" placeholder="&#127760; Contraseña ">
-                    
-                    <button class="btn btn-success btn-block" style="margin-top:10px;">Iniciar Sesion</button>
-                </form>
-            </div>
-        </div>
-    </div>
+		</form>
+	</div>
 
 
 <?php include('views/layouts/footer.php') ?>
