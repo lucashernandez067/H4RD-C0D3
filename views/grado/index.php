@@ -16,11 +16,11 @@
                    <div>
                        <table class="table table-bordered">
                            <tr class="table-primary"><th class="center"><a href="?c=Materias&m=matematicas">Matematicas</a></th></tr>
-                           <tr><th class="center">Sociales</th><tr>
-                           <tr><th class="center">Español</th><tr>
-                           <tr><th class="center">Ingles</th><tr>
-                           <tr><th class="center">Religion</th><tr>
-                           <tr><th class="center">Etica</th><tr>
+                           <tr><th class="center"><a href="?c=Materias&m=sociales">Sociales</a></th><tr>
+                           <tr><th class="center"><a href="?c=Materias&m=spanish">Español</a></th><tr>
+                           <tr><th class="center"><a href="?c=Materias&m=ingles">Ingles</a></th><tr>
+                           <tr><th class="center"><a href="?c=Materias&m=religion">Religion</a></th><tr>
+                           <tr><th class="center"><a href="?c=Materias&m=etica">Etica</a></th><tr>
                        </table>
                    </div>
             </div>

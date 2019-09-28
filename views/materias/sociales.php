@@ -15,7 +15,7 @@
                     <table class="table table-hover table-bordered" id="tabla">
                     <caption>Selecciona el curso que desees realizar</caption>
                     <thead class="">
-                        <tr class="info">
+                        <tr class="warning">
                             <th scope="col">Nombre del Curso</th>
                             <th scope="col">Estado</th>
                             <th scope="col">Progreso</th>
