@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- include('views/layouts/)-->
 <!DOCTYPE html>
 <html lang="en">
@@ -11,6 +12,11 @@
     <title>Registro</title>
 </head>
 <body class="body">
+=======
+<?php include('views/layouts/head.php') ?>
+
+<body>
+>>>>>>> c1e228e0070b8d83f776ff7afad8a80250dfddc0
 <div class="container">
 		<div class="form__top">
 			<h2><span>Register</span></h2>
@@ -19,7 +25,7 @@
             <input class="input" type="text" placeholder="&#128100;  Name" required autofocus>
             <input class="input" type="text" placeholder="&#128090;   Last_name" required>
             <input class="input" type="email" placeholder="&#128084;  Document" required>
-            <input class="input" type="email" placeholder="&#127760;  Password" required>
+            <input class="input" type="password" placeholder="&#127760;  Password" required>
             <input class="input" type="email" placeholder="&#9993;  Email" required>
             <div class="btn__form">
             	<input class="btn__submit" type="submit" value="SignUp">
