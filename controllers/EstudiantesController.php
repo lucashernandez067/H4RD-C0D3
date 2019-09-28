@@ -3,6 +3,9 @@
         public function index(){
             require_once('views/estudiantes/index.php');
         }
+        public function prueba(){
+            require_once('views/estudiantes/prueba.php');
+        }
     }
 
 ?>
