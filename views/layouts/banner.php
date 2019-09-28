@@ -1,10 +1,6 @@
 <header>
 <nav>
-	<ul>
-		<li><a href="index.html">STUDENT_STUDY</a></li>
-    </ul>
-		
-	<div class="conainer">
+	<ul>		
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
