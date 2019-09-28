@@ -53,29 +53,4 @@ header nav ul li a:hover{
 .background-login-col{
     background-color: #F2285A;
 }
-<<<<<<< HEAD
 /*  register style   */
-=======
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
->>>>>>> b0b3319c2a85685f9ba2ad64ba8ad4b5104de980
