@@ -24,8 +24,9 @@
             <hr>
             <div>
             
-            <h3><img src="assets/img/img01.png" alt="" width="10%"> Felipe</h3>
+            <h3><img src="assets/img/img01.png" alt="" width="5%"> Felipe</h3>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus veniam dolore autem illo aliquid, corporis labore consectetur expedita </p>
+            <p><a href="">Responder </a></p>
             </div>
             </div>
                 </div>
