@@ -1,5 +1,5 @@
 <?php 
-    class Register{
+    class Register extends DB{
         
     }
 ?>
