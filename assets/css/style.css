@@ -1,11 +1,11 @@
 
+
 @font-face{
     src : url("../fonts/Ubuntu.ttf") format("Opentype");
     font-weight: 900;
     font-style: normal;
     font-family: Ubuntu;
 }
-
 *{
     font-family: Ubuntu;
 }
@@ -17,10 +17,10 @@ footer{
     height: auto;
     color:white;
     padding: 3rem;
-	margin-top: 10px; 
-	display: block;
+    margin-top: 10px; 
     
 }
+
 
 /*Banner style*/
 
@@ -32,62 +32,17 @@ header nav{
 
 header nav ul li{
     display: inline-block;
-	font-size: 30px;
-	padding: 5px;
+    font-size: 30px;
 }
-
-header nav ul li span{
-	color: white;
-	font-family: Ubuntu;	
-}
-
 header nav ul li a{
-	cursor: pointer;
-	color: white;
-	font-size: .52em;
-	transition: all .3s;
+    color: white;
 }
 
 header nav ul li a:hover{
     text-decoration: none;
-	color:rgb(93, 84, 84);
-	transition: all .5s;
+    color:rgb(207, 205, 205);
 }
 
-header nav ul li .login-button{
-	padding: 7px;
-	background-color: rgb(231, 166, 61);
-	border-radius: 3px;
-	-webkit-appareance: button;
-}
-
-header nav ul li .sign-up-button{
-	padding: 7px;
-	background-color: rgb(231, 166, 61);
-	border-radius: 3px;
-	-webkit-appareance: button;
-}
-
-header nav ul li .login-button:hover{
-	background-color: rgb(175, 179, 169);
-
-}
-
-header nav ul li .sign-up-button:hover{
-	background-color: rgb(175, 179, 169);
-}
-header nav ul b{
-	color: white;
-	font-size: 1.2em;
-}
-
-main section .banner{
-	background-image: url("../img/child.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 100vw;
-	height: 55vh;
-}
 
 /* Login style */
 
@@ -204,46 +159,18 @@ h2 span {
 	line-height: 1;
 }
 ol, ul {
-    list-style-type: circle;
+	list-style: none;
 }
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
 
-/* Materias*/
-div ol li a{
-    color:#333;
-}
-
-div ol li a:hover{
-    color: rgb(83, 83, 83);
-    text-decoration: none;
-    
-}
-
-div ol li{
-    transition: 0.5s;
-}
-
-div ol li:hover{
-    transition: 0.5s;
-    transform: translateX(10px);
-}
-
-.panel-info {
-    border-color: #d7bcf1;
-  }
-  .panel-info > .panel-heading {
-    color: #8f318a;
-    background-color: #f7d9f2;
-    border-color: #d7bcf1;
-  }
 /* style grado*/
-.containers{
-    position: absolute;
-}
 .center{
-    position:relative;
 	text-align: center;
+}
+
+.progress{
+	padding-left: 3px;
 }

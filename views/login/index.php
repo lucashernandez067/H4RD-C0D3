@@ -4,7 +4,7 @@
     <?php include('views/layouts/banner.php') ?>
     <div class="container">
 		<div class="form__top">
-			<h2><span>Register</span></h2>
+			<h2><span>Login</span></h2>
 		</div>		
 		<form class="form__reg" method="POST" action="?c=Estudiantes&m=index">
             <input class="input" type="number" placeholder="&#128084;  Document" required>
