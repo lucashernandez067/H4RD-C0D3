@@ -10,4 +10,15 @@ footer{
 nav{
     background: linear-gradient(#F2285A,#E25050,#FF6F29)
 }
+
+/* Login style */
+
+.panel-login-col{
+    height:50rem;
+}
+
+.background-login-col{
+    background-color: #F2285A;
+    height: 100px;
+}
 /*  register style   */
