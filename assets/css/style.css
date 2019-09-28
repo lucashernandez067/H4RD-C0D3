@@ -6,3 +6,7 @@ footer{
     color:white;
     padding: 3rem;
 }
+
+nav{
+    background: linear-gradient(#F2285A,#E25050,#FF6F29)
+}
