@@ -1,4 +1,5 @@
-<?php 
+<?php
+date_default_timezone_set("America/Bogota");
     class RegisterController extends Register{
         private $register;
         public function __construct(){
@@ -17,7 +18,8 @@
                 "password_user" => $_POST['pass'],
                 "name_user" => $_POST['name'],
                 "lastname_user" => $_POST['last_name'],
-                "email_user" => $_POST['email']
+                "email_user" => $_POST['email'],
+                "date" => $date,
             );
             $this->register->crear($data);
         }
