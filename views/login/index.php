@@ -9,12 +9,14 @@
             </div>
             <div class="col-md-6 panel-login-col">
                 <form action="">
-                    <label for="" $pu><h3>Documento</h3></label>
-                    <input type="text" class="form-control ">
+                    <label for=""><h3>Documento</h3></label>
+                    <input type="text" class="form-control " placeholder="&#128100 Documento">
 
                     
-                    <label for="">Contraseña</label>
-                    <input type="text" class="form-control">
+                    <label for=""><h3>Contraseña</h3></label>
+                    <input type="text" class="form-control" placeholder="">
+                    
+                    <button class="btn btn-success btn-block" style="margin-top:10px;">Iniciar Sesion</button>
                 </form>
             </div>
         </div>
