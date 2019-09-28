@@ -4,5 +4,6 @@
     require_once('models/Index.php');
     require_once('models/Security.php');
     require_once('models/Register.php');
+    require_once("models/Login.php");
 ?>
 
