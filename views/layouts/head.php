@@ -7,4 +7,5 @@
     <link rel="stylesheet" href="assets/css/bootstrap-3.3.7/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/material-design-iconic-font.min.css">
+    <script type="text/javascript" src="assets/js/jquery.js"></script>
 </head>

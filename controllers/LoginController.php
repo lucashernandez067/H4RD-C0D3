@@ -1,8 +1,8 @@
 <?php 
-    class LoginControler extends Login {
+    class LoginController extends Login {
         public function index(){
             require_once('views/login/index.php');
         }
     }
 
-?>
+?> 
