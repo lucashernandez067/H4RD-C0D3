@@ -1,6 +1,11 @@
 <header>
 <nav>
 	<ul>
+<<<<<<< HEAD
+=======
+		<li><a href="index.html">STUDENT_STUDY</a></li>
+		
+>>>>>>> 7883f9aaaef42bdabb0963aefe001a6ac748579c
 	<div class="container">
 		<div class="row">
 			<div class="col-md-5">

@@ -219,3 +219,7 @@ table {
 .progress{
 	padding-left: 3px;
 }
+
+*{
+	display: inline;
+}
