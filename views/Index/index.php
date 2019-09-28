@@ -29,7 +29,7 @@
     <hr>
     <div class="row">
         <div class="col-md-6">
-            <h4>Cursos En primarias</h4>
+            <h4>Cursos En Bachillerato</h4>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus consectetur obcaecati voluptatum mollitia laborum, similique cumque impedit illum eum aliquid, cupiditate pariatur, explicabo dolor. Obcaecati consequuntur nulla officiis soluta nihil.
 
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus consectetur obcaecati voluptatum mollitia laborum, similique cumque impedit illum eum aliquid, cupiditate pariatur, explicabo dolor. Obcaecati consequuntur nulla officiis soluta nihil.

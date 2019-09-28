@@ -114,3 +114,116 @@ table {
 	padding-left: 3px;
 }
 
+/* dashell styles */
+/* style grado*/
+.center{
+	text-align: center;
+}
+.back{
+	margin-bottom: 2rem;
+	background-color: #581845;
+	color: white;
+}
+.numone{
+	background-color:#F2285A;
+	margin-top: -1rem;
+	text-align: center;
+	font-size: 7rem;
+	border-radius: 50%;
+	cursor: pointer;
+	color:black;
+}
+.numdos{
+	margin-top: -1rem;
+	text-align: center;
+	font-size: 7rem;
+	border-radius: 50%;
+	background-color: #FF6F29;
+	cursor: pointer;
+	color:black;
+}
+.numtres{
+	margin-top: -1rem;
+	text-align: center;
+	font-size: 7rem;
+	border-radius: 50%;
+	background-color: #E25050;
+	cursor: pointer;
+	color:black;
+}
+.center:hover{
+	background-color: rgb(131, 40, 40);
+	cursor: pointer;
+	color:white;
+}
+.centerone:hover{
+	background-color: rgb(38, 163, 44);
+	cursor: pointer;
+	color:white;
+
+}
+.centerdos:hover{
+	background-color: rgb(148, 168, 34);
+	cursor: pointer;
+	color:white;
+
+}
+.text-center:hover{
+	cursor: pointer;
+}
+@media only screen and (max-width: 800px) {
+	.center{
+		text-align: center;
+	}
+	.back{
+		margin-bottom: 2rem;
+		background-color: #581845;
+		color: white;
+	}
+	.numone{
+		background-color:#F2285A;
+		margin-top: -1rem;
+		text-align: center;
+		font-size: 7rem;
+		border-radius: 50%;
+		cursor: pointer;
+		color:black;
+	}
+	.numdos{
+		margin-top: -1rem;
+		text-align: center;
+		font-size: 7rem;
+		border-radius: 50%;
+		background-color: #FF6F29;
+		cursor: pointer;
+		color:black;
+	}
+	.numtres{
+		margin-top: -1rem;
+		text-align: center;
+		font-size: 7rem;
+		border-radius: 50%;
+		background-color: #E25050;
+		cursor: pointer;
+		color:black;
+	}
+	.center:hover{
+		background-color: rgb(131, 40, 40);
+		cursor: pointer;
+		color:white;
+	}
+	.centerone:hover{
+		background-color: rgb(38, 163, 44);
+		cursor: pointer;
+		color:white;
+	
+	}
+	.centerdos:hover{
+		background-color: rgb(148, 168, 34);
+		cursor: pointer;
+		color:white;
+	
+	}
+	.text-center:hover{
+		cursor: pointer;
+  }
