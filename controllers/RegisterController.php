@@ -5,11 +5,7 @@
         require_once('views/Register/index.php');
     }
         public function index(){
-            
-        }
-        public function index(){
         require_once('views/Register/index.php');
         }
     }
- }
 ?>
