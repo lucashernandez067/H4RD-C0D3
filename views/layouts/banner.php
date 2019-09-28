@@ -1,7 +1,7 @@
 <header>
 <nav>
 	<ul>
-		<li><a href="index.html">H4RD-C0D3</a></li>
+		<li><a href="index.html">STUDENT_STUDY</a></li>
     </ul>
 		
 </nav>
