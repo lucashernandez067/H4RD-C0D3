@@ -9,7 +9,7 @@
             </div>
             <div class="col-md-6">
                 <form action="">
-                    <label for=""></label>
+                    <label for="">Documento</label>
                 </form>
             </div>
         </div>
