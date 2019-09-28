@@ -1,5 +1,5 @@
 <?php include('views/layouts/head.php'); ?>
-<title>Subir Video</title>
+<title>Subir Archivo</title>
 <body>
     Subir una Archivo
     <form action="?c=Files&m=cargar" method="post" enctype="multipart/form-data">
